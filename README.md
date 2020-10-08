@@ -1,5 +1,11 @@
 # team-literature-review
-codebase for team-literature-review project. 
+
+## What is this project?
+
+## How to use it?
+
+## More info
+
 
 Place to consolidate all the related code
 
