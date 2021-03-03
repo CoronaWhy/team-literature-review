@@ -3,3 +3,6 @@ kaggle==1.5.8
 numpy==1.19.2
 pandas==1.1.2
 pymongo==3.11.0
+spacy >= 1.5.4
+scispacy >= 0.3.0
+https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.3.0/en_ner_jnlpba_md-0.3.0.tar.gz
